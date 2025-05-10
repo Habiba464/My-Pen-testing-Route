@@ -1,0 +1,91 @@
+1. 🎥 Videos and Learning Playlists
+
+Start by watching curated content to build your foundational and practical knowledge.
+
+Rana Khalil's Channel – Deep dives into real vulnerabilities:
+  🔗 [https://www.youtube.com/@RanaKhalil101/playlists](https://www.youtube.com/@RanaKhalil101/playlists)
+Bug bounty crash course (one-shot video):
+  🔗 [https://youtu.be/gjpwWj-u8Ew?si=lYBR6vEeh2mDCxo8](https://youtu.be/gjpwWj-u8Ew?si=lYBR6vEeh2mDCxo8)
+OWASP Top 10 + Labs playlist:
+  🔗 [https://youtube.com/playlist?list=PLsB1gqjeUAh\_99a9LbVbxg-nBV79o0kW3](https://youtube.com/playlist?list=PLsB1gqjeUAh_99a9LbVbxg-nBV79o0kW3)
+Bug bounty hunting series:
+  🔗 [https://youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj](https://youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj)
+ Other useful creators:
+
+  * Khaled Ibn Alwalid: [https://www.youtube.com/@khaledibnalwalid22](https://www.youtube.com/@khaledibnalwalid22)
+  * BugsAR: [https://www.youtube.com/@BugsAR](https://www.youtube.com/@BugsAR)
+
+📝 Note: Keep a learning journal or markdown file for key takeaways.
+
+ 2. 🧑‍💻 Study Vulnerable Code**
+
+To better understand how vulnerabilities work, look at source code examples:
+
+* Search code snippets related to a specific vulnerability (e.g., IDOR, XSS, SSRF).
+* Use **ChatGPT** or **DeepSeek** to generate, understand, or explain vulnerable code.
+* Reverse-engineer lab challenges to see what code mistakes led to the vuln.
+
+---
+
+ 3. 🧪 Hands-On Labs
+
+Practice what you learn in real-world-like environments:
+
+*PortSwigger Labs (Web Security Academy)
+*PentesterLab
+*TryHackMe
+*Hack The Box
+
+📝 Take detailed notes from every lab:
+
+* Vulnerability Name
+* Description
+* Exploitation steps
+* Payloads used
+* Prevention tips
+
+---
+
+ 4. 📄 **Reports and Writeups**
+
+Study how real hackers approach targets:
+
+* GitHub Collections:
+
+  * [Awesome Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
+  * [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
+* [Writeup-DB](https://www.writeup-db.com/writeups-list/)
+* Medium/Blog search:
+
+  * `"site:medium.com [vuln-name] writeup"` (e.g., `IDOR writeup site:medium.com`)
+
+---
+
+ 5. 📂 Checklists, Tips & Hunting Resources
+
+Explore this amazing resource full of checklists, techniques, and recon/hunting tools:
+
+* 🔗 [HowToHunt GitHub Repo](https://github.com/KathanP19/HowToHunt/tree/master)
+
+Use this for:
+
+* Pre/post exploitation checklists
+* Recon techniques
+* Fuzzing tricks
+* Common endpoint hunting patterns
+
+---
+
+ 6. 🗂️ Organize Your Notes into a Methodology
+
+Once you've covered the above, organize your notes into:
+
+🔹 Recon checklist
+🔹 Bug types with real examples
+🔹 Payload cheatsheets
+🔹 Testing methodology per vuln
+🔹 Tool usage tips
+🔹 Custom scripts/snippets
+
+💡 Turn this into a personal GitHub repository or Notion workspace, and keep it updated as you learn.
+
